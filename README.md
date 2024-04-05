@@ -1,35 +1,12 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
 Bienvenidos a
-# Programaci髇 con objetos I
+# Victor Gonzalvez :bulb:
+Hola, mi nombre es Victor, tengo 25 a帽os y soy estudiante de la T茅cnicatura en programaci贸n desde el segundo cuatrimestre de 2022.
+En en verano del 2022 empec茅 a estudiar programaci贸n de manera autodidacta al mismo tiempo que me propuse rendir las materias que me quedaban del secundario, lo cual me motiv贸 a empezar mi carrera universitaria en inform谩tica.
+Conoc铆 la UNAHUR gracias a la recomendaci贸n de una amiga y apenas pude inscribirme no lo dud茅.
+Actualmente tengo 11 materias aprobadas y estoy cursando otras 3(Objetos, Estructura de datos y Organizaci贸n de computadoras II)
 
-En esta materia aprender醤 sobre la famosa POO _(OOP en ingl閟)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisi髇 1 **turno noche**: Martes 18 a 22hs y S醔ado 10 a 12hs.
-* Horario comisi髇 2 **turno ma馻na**: Mi閞coles 8 a 12hs y S醔ado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz醠ez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern醤 Coniglio
-* Adem醩 nos acompa馻n como colaboradores Valentino Chiappanni, Manuel Nu馿z y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [P醙ina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Gu韆 R鄍ida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en ingl閟)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Gustos personales :computer:
+Practicamente desde que tengo memoria que uso una pc, siempre para jugar
+:video_game:(lo que es mi mayor hobbie), y en los ultimos tiempos quise darle una oportunidad a la programaci贸n, ya que tenia los recursos necesarios para emprenderme en ese camino facilmente. Tengo un familiar que se dedica al rubro IT desde hace muchos a帽os y tambi茅n me motiv贸 a que lo intente.
