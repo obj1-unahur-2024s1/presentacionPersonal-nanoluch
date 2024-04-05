@@ -9,4 +9,4 @@ Actualmente tengo 11 materias aprobadas y estoy cursando otras 3(Objetos, Estruc
 
 ## Gustos personales :computer:
 Practicamente desde que tengo memoria que uso una pc, siempre para jugar
-:video_game:(lo que es mi mayor hobbie), y en los ultimos tiempos quise darle una oportunidad a la programación, ya que tenia los recursos necesarios para emprenderme en ese camino facilmente. Tengo un familiar que se dedica al rubro IT desde hace muchos años y también me motivó a que lo intente.
+:video_game: (lo que es mi mayor hobbie), y en los ultimos tiempos quise darle una oportunidad a la programación, ya que tenia los recursos necesarios para emprenderme en ese camino facilmente. Tengo un familiar que se dedica al rubro IT desde hace muchos años y también me motivó a que lo intente.
